@@ -1,6 +1,5 @@
 <?php $a =['Home' => '/',
         'Estimate' => '#',
-        'Products' => '#',
         'About Us' => '#',
         'Contact' => '#'];
 ?>
