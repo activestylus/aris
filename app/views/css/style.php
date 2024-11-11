@@ -1,4 +1,4 @@
-<? $shade = '3px 3px 2px rgba(0, 0, 0, 0.3)'; ?>
+<?php $shade = '3px 3px 2px rgba(0, 0, 0, 0.3)'; ?>
 svg#logo {width: 420px;}
 svg#logo * {fill:#fff;filter: drop-shadow(<?=$shade?>)}
 .tsh {text-shadow: <?=$shade?>;}

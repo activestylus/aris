@@ -63,13 +63,13 @@ $h['content'] = toLayout('content', function()  use ($h) { ?>
   </div>
   
   <?= ui('parts/a50', ['group' => $h['group1']]); ?>
-  <? $hcls = 'hero line tac bac max' ?>
+  <?php $hcls = 'hero line tac bac max' ?>
   <div class="<?=$hcls?> wow" style="<?= bg('/i/home/heroes/wow/1800.jpg') ?>">
       <h2 class='fs32 fw8 fff tsh'><?= $h['wowH'] ?></h2>
       <ul class="checks dib fs18 fff tsh">
-        <? foreach ($h['wowL'] as $l): ?>
+        <?php foreach ($h['wowL'] as $l): ?>
         <li><?= $l ?></li>
-        <? endforeach; ?>
+        <?php endforeach; ?>
       </ul>
   </div>
 
@@ -88,13 +88,13 @@ $h['content'] = toLayout('content', function()  use ($h) { ?>
     <br>
   
 
-    <? foreach (['pub1','pub2','pub3'] as $pub):?>
-      <? $p = $h[$pub] ?>
+    <?php foreach (['pub1','pub2','pub3'] as $pub):?>
+      <?php $p = $h[$pub] ?>
       <div class="pub tac">
         <h3 class='fs24 alpha-dark'><?= $p[0]?></h3>
         <?= ui('parts/a33', [ 'group' => $p[1] ]); ?>
       </div>
-    <? endforeach; ?>
+    <?php endforeach; ?>
   </div>
 
-<? }); echo ui('layout', $h); ?>
+<?php }); echo ui('layout', $h); ?>

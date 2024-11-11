@@ -1,4 +1,4 @@
-<? $a =['Home' => '/',
+<?php $a =['Home' => '/',
         'Estimate' => '#',
         'Products' => '#',
         'About Us' => '#',
@@ -7,8 +7,8 @@
 <header class='vam caps'>
     <?= ui('logo'); ?>
     <nav class='dib fs14 fw7 fff'>
-        <? foreach ($a as $k => $v): ?>
+        <?php foreach ($a as $k => $v): ?>
             <?= link_to($k, $v, ['class'=>'tduh fff tsh dib px8 py16']) ?>
-        <? endforeach; ?>
+        <?php endforeach; ?>
     </nav>
 </header>

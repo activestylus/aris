@@ -1,4 +1,4 @@
-<?
+<?php
 $css = <<<EOT
 .a50 {padding-top:25%;  border-radius:4px}
 .a50 .more {bottom:16px;right:12px}
@@ -6,8 +6,8 @@ $css = <<<EOT
 EOT; yieldStyle($css) ?>
 <div class="group flex bac max p16">
 
-<? foreach ($group as $g):?>
-  <? $f = str_replace(' ','',$g[0]) ?>
+<?php foreach ($group as $g):?>
+  <?php $f = str_replace(' ','',$g[0]) ?>
   
   <a href="<?$g[1]?>" class="a50 lite-px f50 bcov img tdn" style="<?= bg('/i/a50/' . $f . '/960.jpg');?>">
     <span class="db inf bfff rel p4">
@@ -17,5 +17,5 @@ EOT; yieldStyle($css) ?>
     </span>
   </a>
 
-<? endforeach ?> 
+<?php endforeach ?> 
 </div>

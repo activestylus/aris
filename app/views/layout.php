@@ -1,4 +1,4 @@
-<?
+<?php
 $site  = "https://www.modernpressnyc.com";
 $tit  = is($title,'Modern Press NYC');
 $des  = is($desc,'Offset & Commercial Printing NYC');
