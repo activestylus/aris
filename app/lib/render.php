@@ -105,18 +105,26 @@ static $envCache = null;
 
 function rend(string $path, string $ext, array $locals = []): string {
     static $pathCache = [];
-    static $envCache = null;  // Moved inside the function
+    static $envCache = null;
+    
+    error_log("Rendering: " . $path . " with extension: " . $ext);
     
     // Fast path resolution with static cache
     $cacheKey = $ext . '_' . $path;
     if (!isset($pathCache[$cacheKey])) {
-        $pathCache[$cacheKey] = ($ext === 'php' ? VIEWS_PATH : CSS_PATH) . $path . '.php';
+        $fullPath = ($ext === 'php' ? VIEWS_PATH : CSS_PATH) . $path . '.php';
+        error_log("Full path resolved to: " . $fullPath);
+        error_log("File exists: " . (file_exists($fullPath) ? "yes" : "no"));
+        error_log("Is readable: " . (is_readable($fullPath) ? "yes" : "no"));
+        $pathCache[$cacheKey] = $fullPath;
     }
+    
     $fullPath = $pathCache[$cacheKey];
     
-    // Early return for missing files
     if (!is_file($fullPath)) {
-        return "Error: Unable to load view '$fullPath'.";
+        $error = "Unable to load view: $fullPath";
+        error_log($error);
+        return $error;
     }
     
     // Extract locals only if needed
