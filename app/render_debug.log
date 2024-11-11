@@ -1,0 +1,456 @@
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => home
+    [ext] => css
+    [locals_keys] => Array
+        (
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+    [output_length] => 117
+)
+
+[2024-11-11 16:30:17] toLayout called with path: content
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => parts/header
+    [locals_keys] => Array
+        (
+            [0] => h
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => parts/header
+    [ext] => php
+    [locals_keys] => Array
+        (
+            [0] => h
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Extracting locals: Array
+(
+    [0] => h
+)
+
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => logo
+    [locals_keys] => Array
+        (
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => logo
+    [ext] => php
+    [locals_keys] => Array
+        (
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+    [output_length] => 3784
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+    [output_length] => 4262
+)
+
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => parts/a50
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => parts/a50
+    [ext] => php
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Extracting locals: Array
+(
+    [0] => group
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+    [output_length] => 1602
+)
+
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => parts/map
+    [locals_keys] => Array
+        (
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => parts/map
+    [ext] => php
+    [locals_keys] => Array
+        (
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+    [output_length] => 792
+)
+
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => parts/a50
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => parts/a50
+    [ext] => php
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Extracting locals: Array
+(
+    [0] => group
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+    [output_length] => 1578
+)
+
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => parts/a33
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => parts/a33
+    [ext] => php
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Extracting locals: Array
+(
+    [0] => group
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+    [output_length] => 792
+)
+
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => parts/a33
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => parts/a33
+    [ext] => php
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Extracting locals: Array
+(
+    [0] => group
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+    [output_length] => 785
+)
+
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => parts/a33
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => parts/a33
+    [ext] => php
+    [locals_keys] => Array
+        (
+            [0] => group
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Extracting locals: Array
+(
+    [0] => group
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+    [output_length] => 796
+)
+
+[2024-11-11 16:30:17] Content generated length: 12272
+[2024-11-11 16:30:17] UI function called: Array
+(
+    [path] => layout
+    [locals_keys] => Array
+        (
+            [0] => title
+            [1] => desc
+            [2] => image
+            [3] => h1
+            [4] => cta
+            [5] => wowH
+            [6] => wowL
+            [7] => colorH
+            [8] => colorT
+            [9] => group1
+            [10] => group2
+            [11] => pubH
+            [12] => pubT
+            [13] => pub1
+            [14] => pub2
+            [15] => pub3
+            [16] => content
+        )
+
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => layout
+    [ext] => php
+    [locals_keys] => Array
+        (
+            [0] => title
+            [1] => desc
+            [2] => image
+            [3] => h1
+            [4] => cta
+            [5] => wowH
+            [6] => wowL
+            [7] => colorH
+            [8] => colorT
+            [9] => group1
+            [10] => group2
+            [11] => pubH
+            [12] => pubT
+            [13] => pub1
+            [14] => pub2
+            [15] => pub3
+            [16] => content
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Extracting locals: Array
+(
+    [0] => title
+    [1] => desc
+    [2] => image
+    [3] => h1
+    [4] => cta
+    [5] => wowH
+    [6] => wowL
+    [7] => colorH
+    [8] => colorT
+    [9] => group1
+    [10] => group2
+    [11] => pubH
+    [12] => pubT
+    [13] => pub1
+    [14] => pub2
+    [15] => pub3
+    [16] => content
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => reset
+    [ext] => css
+    [locals_keys] => Array
+        (
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+    [output_length] => 2371
+)
+
+[2024-11-11 16:30:17] Rend called: Array
+(
+    [path] => style
+    [ext] => css
+    [locals_keys] => Array
+        (
+        )
+
+)
+
+[2024-11-11 16:30:17] Resolving path: Array
+(
+    [fullPath] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+    [exists] => 1
+    [readable] => 1
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+    [output_length] => 744
+)
+
+[2024-11-11 16:30:17] Successfully rendered file: Array
+(
+    [path] => /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+    [output_length] => 17265
+)
+
