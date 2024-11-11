@@ -7,9 +7,6 @@ require_once __DIR__ . '/lib/html.php';
 
 function isDev() {return getenv('APP_ENV') == 'development';}
 function isLive() {return getenv('APP_ENV') == 'production';}
-function myEnv() {return getenv('APP_ENV');}
-
-
 
 
 ?>

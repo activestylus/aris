@@ -1,7 +1,8 @@
-<?php $a =['Home' => '/',
-        'Estimate' => '#',
-        'About Us' => '#',
-        'Contact' => '#'];
+<? $a = [
+'Home' => '/',
+'Estimate' => '#',
+'About Us' => '#',
+'Contact' => '#'];
 ?>
 <header class='vam caps'>
     <?= ui('logo'); ?>

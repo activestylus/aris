@@ -26,9 +26,6 @@ $src   = $site . $imag
         <!--YIELD_STYLES-->
         <?= is($style); ?>
     </style>
-    <script>
-        function copyMe(e){let t=e.getAttribute("data-copy"),n=e.textContent;navigator.clipboard.writeText(t).then(_=>{e.textContent="Copied to Clipboard!",setTimeout(_=>e.textContent=n,2e3)}).catch(e=>console.error("Failed to copy:",e))}
-    </script>
 </head>
 <body>
     <main>

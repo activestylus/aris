@@ -1,5 +1,4 @@
-
-<?php
+<?
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ini_set('log_errors', 1);
@@ -15,6 +14,7 @@ $h = [
   'image' => "/i/modernpressnyc.jpg",
   'h1'    => "Commercial Offset, Digital & Specialty Printing Services",
   'cta'   => "Request a Price Quote",
+  'tel'  => "(201) 216-1660",
   'wowH'  => 'Wow Factor',
   'wowL'  => ["Flawless Execution", "Premium Materials", "An Artist's Touch"],
   'colorH'=> 'Vivid Colors & Stunning Quality',
@@ -52,7 +52,8 @@ $h = [
     ['Text Books', '#hardcover-publishing'],
     ['Year Books', '#yearbook-printing'] ]]
 ];
-$h['content'] = toLayout('content', function()  use ($h) { ?>
+$h['content'] = toLayout('content', function()  use ($h) {
+?>
 
   <div class="hero main tac" style="<?= bg('/i/home/heroes/main/1800.jpg') ?>">
     <div class="bac max">
@@ -61,23 +62,25 @@ $h['content'] = toLayout('content', function()  use ($h) { ?>
       <a href="#" class="black20 dib btn act white2 fs18 fw6 tduh tsh bsh"><?= $h['cta'] ?></a>
     </div>
   </div>
-  
+
+  <?= ui('parts/contactBar'); ?>
+
   <?= ui('parts/a50', ['group' => $h['group1']]); ?>
-  <?php $hcls = 'hero line tac bac max' ?>
-  <div class="<?=$hcls?> wow" style="<?= bg('/i/home/heroes/wow/1800.jpg') ?>">
+
+  <? $x = 'hero line tac bac max' ?>
+  <div class="<?=$x?> wow" style="<?= bg('/i/home/heroes/wow/1800.jpg') ?>">
       <h2 class='fs32 fw8 fff tsh'><?= $h['wowH'] ?></h2>
       <ul class="checks dib fs18 fff tsh">
-        <?php foreach ($h['wowL'] as $l): ?>
+        <? foreach ($h['wowL'] as $l): ?>
         <li><?= $l ?></li>
-        <?php endforeach; ?>
+        <? endforeach; ?>
       </ul>
   </div>
 
   <?= ui('parts/map') ?>
-
   <?= ui('parts/a50', ['group' => $h['group2']]); ?>
 
-  <div class="<?=$hcls?> colors" style="<?= bg('/i/home/heroes/colors/1800.jpg') ?>">
+  <div class="<?=$x?> colors" style="<?= bg('/i/home/heroes/colors/1800.jpg') ?>">
     <h2 class='fs32 fw8 fff tsh'><?= $h['colorH'] ?></h2>
     <p class='fff fs16 tsh'><?= $h['colorT']?></p>
   </div>
@@ -86,15 +89,13 @@ $h['content'] = toLayout('content', function()  use ($h) { ?>
     <h2 class="fs32 fw2 alpha-nite"><?= $h['pubH']?></h2>
     <p class="p0 fs14"><?= $h['pubT']?></p>
     <br>
-  
-
-    <?php foreach (['pub1','pub2','pub3'] as $pub):?>
-      <?php $p = $h[$pub] ?>
+    <? foreach (['pub1','pub2','pub3'] as $pub):?>
+      <? $p = $h[$pub] ?>
       <div class="pub tac">
         <h3 class='fs24 alpha-dark'><?= $p[0]?></h3>
         <?= ui('parts/a33', [ 'group' => $p[1] ]); ?>
       </div>
-    <?php endforeach; ?>
+    <? endforeach; ?>
   </div>
-
-<?php }); echo ui('layout', $h); ?>
+  <?= ui('parts/contactBar'); ?>
+<? }); echo ui('layout', $h); ?>

@@ -341,3 +341,2488 @@
 [11-Nov-2024 18:18:43 UTC] File exists: yes
 [11-Nov-2024 18:18:43 UTC] Is readable: yes
 [11-Nov-2024 18:18:43 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 18:32:19 UTC] Layout content variable exists: no
+[11-Nov-2024 18:32:19 UTC] Layout content length: 0
+[11-Nov-2024 18:32:19 UTC] Starting home page render
+[11-Nov-2024 18:32:19 UTC] Rendering: home with extension: css
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] toLayout starting with path: content
+[11-Nov-2024 18:32:19 UTC] Calling function in toLayout
+[11-Nov-2024 18:32:19 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] Rendering: logo with extension: php
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 18:32:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:32:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:32:19 UTC] Content length generated: 12405
+[11-Nov-2024 18:32:19 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 18:32:19 UTC] Rendering: layout with extension: php
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] Rendering: reset with extension: css
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] Rendering: style with extension: css
+[11-Nov-2024 18:32:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 18:32:19 UTC] File exists: yes
+[11-Nov-2024 18:32:19 UTC] Is readable: yes
+[11-Nov-2024 18:32:19 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 18:33:03 UTC] Layout content variable exists: no
+[11-Nov-2024 18:33:03 UTC] Layout content length: 0
+[11-Nov-2024 18:33:03 UTC] Starting home page render
+[11-Nov-2024 18:33:03 UTC] Rendering: home with extension: css
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] toLayout starting with path: content
+[11-Nov-2024 18:33:03 UTC] Calling function in toLayout
+[11-Nov-2024 18:33:03 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] Rendering: logo with extension: php
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 18:33:03 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:33:03 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:33:03 UTC] Content length generated: 12405
+[11-Nov-2024 18:33:03 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 18:33:03 UTC] Rendering: layout with extension: php
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] Rendering: reset with extension: css
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] Rendering: style with extension: css
+[11-Nov-2024 18:33:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 18:33:03 UTC] File exists: yes
+[11-Nov-2024 18:33:03 UTC] Is readable: yes
+[11-Nov-2024 18:33:03 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 18:38:11 UTC] PHP Fatal error:  Cannot redeclare myEnv() (previously declared in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/app.php:10) in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/config/load.php on line 32
+[11-Nov-2024 18:38:28 UTC] Layout content variable exists: no
+[11-Nov-2024 18:38:28 UTC] Layout content length: 0
+[11-Nov-2024 18:38:28 UTC] Starting home page render
+[11-Nov-2024 18:38:28 UTC] Rendering: home with extension: css
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] toLayout starting with path: content
+[11-Nov-2024 18:38:28 UTC] Calling function in toLayout
+[11-Nov-2024 18:38:28 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] Rendering: logo with extension: php
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 18:38:28 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:38:28 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:38:28 UTC] Content length generated: 12405
+[11-Nov-2024 18:38:28 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 18:38:28 UTC] Rendering: layout with extension: php
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] Rendering: reset with extension: css
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] Rendering: style with extension: css
+[11-Nov-2024 18:38:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 18:38:28 UTC] File exists: yes
+[11-Nov-2024 18:38:28 UTC] Is readable: yes
+[11-Nov-2024 18:38:28 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 18:38:39 UTC] PHP Fatal error:  Cannot redeclare myEnv() (previously declared in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/app.php:10) in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/config/load.php on line 32
+[11-Nov-2024 18:40:08 UTC] Layout content variable exists: no
+[11-Nov-2024 18:40:08 UTC] Layout content length: 0
+[11-Nov-2024 18:40:08 UTC] Starting home page render
+[11-Nov-2024 18:40:08 UTC] Rendering: home with extension: css
+[11-Nov-2024 18:40:08 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 18:40:08 UTC] File exists: yes
+[11-Nov-2024 18:40:08 UTC] Is readable: yes
+[11-Nov-2024 18:40:08 UTC] toLayout starting with path: content
+[11-Nov-2024 18:40:08 UTC] Calling function in toLayout
+[11-Nov-2024 18:40:08 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 18:40:08 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 18:40:08 UTC] File exists: yes
+[11-Nov-2024 18:40:08 UTC] Is readable: yes
+[11-Nov-2024 18:40:08 UTC] Rendering: logo with extension: php
+[11-Nov-2024 18:40:08 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 18:40:08 UTC] File exists: yes
+[11-Nov-2024 18:40:08 UTC] Is readable: yes
+[11-Nov-2024 18:40:08 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 18:40:08 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 18:40:08 UTC] File exists: yes
+[11-Nov-2024 18:40:08 UTC] Is readable: yes
+[11-Nov-2024 18:40:08 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 18:40:08 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 18:40:08 UTC] File exists: yes
+[11-Nov-2024 18:40:08 UTC] Is readable: yes
+[11-Nov-2024 18:40:08 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 18:40:08 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:40:08 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 18:40:09 UTC] File exists: yes
+[11-Nov-2024 18:40:09 UTC] Is readable: yes
+[11-Nov-2024 18:40:09 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:40:09 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 18:40:09 UTC] Content length generated: 11476
+[11-Nov-2024 18:40:09 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 18:40:09 UTC] Rendering: layout with extension: php
+[11-Nov-2024 18:40:09 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 18:40:09 UTC] File exists: yes
+[11-Nov-2024 18:40:09 UTC] Is readable: yes
+[11-Nov-2024 18:40:09 UTC] Rendering: reset with extension: css
+[11-Nov-2024 18:40:09 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 18:40:09 UTC] File exists: yes
+[11-Nov-2024 18:40:09 UTC] Is readable: yes
+[11-Nov-2024 18:40:09 UTC] Rendering: style with extension: css
+[11-Nov-2024 18:40:09 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 18:40:09 UTC] File exists: yes
+[11-Nov-2024 18:40:09 UTC] Is readable: yes
+[11-Nov-2024 18:40:09 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:40:06 UTC] Layout content variable exists: no
+[11-Nov-2024 19:40:06 UTC] Layout content length: 0
+[11-Nov-2024 19:40:06 UTC] Starting home page render
+[11-Nov-2024 19:40:06 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] toLayout starting with path: content
+[11-Nov-2024 19:40:06 UTC] Calling function in toLayout
+[11-Nov-2024 19:40:06 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:40:06 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:40:06 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:40:06 UTC] Content length generated: 11476
+[11-Nov-2024 19:40:06 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:40:06 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:40:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:40:06 UTC] File exists: yes
+[11-Nov-2024 19:40:06 UTC] Is readable: yes
+[11-Nov-2024 19:40:06 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:41:07 UTC] Layout content variable exists: no
+[11-Nov-2024 19:41:07 UTC] Layout content length: 0
+[11-Nov-2024 19:41:07 UTC] Starting home page render
+[11-Nov-2024 19:41:07 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] toLayout starting with path: content
+[11-Nov-2024 19:41:07 UTC] Calling function in toLayout
+[11-Nov-2024 19:41:07 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:41:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:41:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:41:07 UTC] Content length generated: 11476
+[11-Nov-2024 19:41:07 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:41:07 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:41:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:41:07 UTC] File exists: yes
+[11-Nov-2024 19:41:07 UTC] Is readable: yes
+[11-Nov-2024 19:41:07 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:44:12 UTC] Layout content variable exists: no
+[11-Nov-2024 19:44:12 UTC] Layout content length: 0
+[11-Nov-2024 19:44:12 UTC] Starting home page render
+[11-Nov-2024 19:44:12 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] toLayout starting with path: content
+[11-Nov-2024 19:44:12 UTC] Calling function in toLayout
+[11-Nov-2024 19:44:12 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:44:12 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:44:12 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:44:12 UTC] Content length generated: 11476
+[11-Nov-2024 19:44:12 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:44:12 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:44:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:44:12 UTC] File exists: yes
+[11-Nov-2024 19:44:12 UTC] Is readable: yes
+[11-Nov-2024 19:44:12 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:44:43 UTC] Layout content variable exists: no
+[11-Nov-2024 19:44:43 UTC] Layout content length: 0
+[11-Nov-2024 19:44:43 UTC] Starting home page render
+[11-Nov-2024 19:44:43 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] toLayout starting with path: content
+[11-Nov-2024 19:44:43 UTC] Calling function in toLayout
+[11-Nov-2024 19:44:43 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:44:43 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:44:43 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:44:43 UTC] Content length generated: 11454
+[11-Nov-2024 19:44:43 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:44:43 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:44:43 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:44:43 UTC] File exists: yes
+[11-Nov-2024 19:44:43 UTC] Is readable: yes
+[11-Nov-2024 19:44:43 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:45:19 UTC] Layout content variable exists: no
+[11-Nov-2024 19:45:19 UTC] Layout content length: 0
+[11-Nov-2024 19:45:19 UTC] Starting home page render
+[11-Nov-2024 19:45:19 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] toLayout starting with path: content
+[11-Nov-2024 19:45:19 UTC] Calling function in toLayout
+[11-Nov-2024 19:45:19 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:45:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:45:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:45:19 UTC] Content length generated: 12134
+[11-Nov-2024 19:45:19 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:45:19 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:45:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:45:19 UTC] File exists: yes
+[11-Nov-2024 19:45:19 UTC] Is readable: yes
+[11-Nov-2024 19:45:19 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:45:34 UTC] Layout content variable exists: no
+[11-Nov-2024 19:45:34 UTC] Layout content length: 0
+[11-Nov-2024 19:45:34 UTC] Starting home page render
+[11-Nov-2024 19:45:34 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] toLayout starting with path: content
+[11-Nov-2024 19:45:34 UTC] Calling function in toLayout
+[11-Nov-2024 19:45:34 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:45:34 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:45:34 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:45:34 UTC] Content length generated: 12134
+[11-Nov-2024 19:45:34 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:45:34 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:45:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:45:34 UTC] File exists: yes
+[11-Nov-2024 19:45:34 UTC] Is readable: yes
+[11-Nov-2024 19:45:34 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:49:19 UTC] Layout content variable exists: no
+[11-Nov-2024 19:49:19 UTC] Layout content length: 0
+[11-Nov-2024 19:49:19 UTC] Starting home page render
+[11-Nov-2024 19:49:19 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] toLayout starting with path: content
+[11-Nov-2024 19:49:19 UTC] Calling function in toLayout
+[11-Nov-2024 19:49:19 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:49:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:49:19 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:49:19 UTC] Content length generated: 11828
+[11-Nov-2024 19:49:19 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:49:19 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:49:19 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:49:19 UTC] File exists: yes
+[11-Nov-2024 19:49:19 UTC] Is readable: yes
+[11-Nov-2024 19:49:19 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:50:20 UTC] Layout content variable exists: no
+[11-Nov-2024 19:50:20 UTC] Layout content length: 0
+[11-Nov-2024 19:50:20 UTC] Starting home page render
+[11-Nov-2024 19:50:20 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] toLayout starting with path: content
+[11-Nov-2024 19:50:20 UTC] Calling function in toLayout
+[11-Nov-2024 19:50:20 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:50:20 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:50:20 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:50:20 UTC] Content length generated: 11828
+[11-Nov-2024 19:50:20 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:50:20 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:50:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:50:20 UTC] File exists: yes
+[11-Nov-2024 19:50:20 UTC] Is readable: yes
+[11-Nov-2024 19:50:20 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:50:32 UTC] Layout content variable exists: no
+[11-Nov-2024 19:50:32 UTC] Layout content length: 0
+[11-Nov-2024 19:50:32 UTC] Starting home page render
+[11-Nov-2024 19:50:32 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] toLayout starting with path: content
+[11-Nov-2024 19:50:32 UTC] Calling function in toLayout
+[11-Nov-2024 19:50:32 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:50:32 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:50:32 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:50:32 UTC] Content length generated: 11833
+[11-Nov-2024 19:50:32 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:50:32 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:50:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:50:32 UTC] File exists: yes
+[11-Nov-2024 19:50:32 UTC] Is readable: yes
+[11-Nov-2024 19:50:32 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:54:38 UTC] Layout content variable exists: no
+[11-Nov-2024 19:54:38 UTC] Layout content length: 0
+[11-Nov-2024 19:54:38 UTC] Starting home page render
+[11-Nov-2024 19:54:38 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] toLayout starting with path: content
+[11-Nov-2024 19:54:38 UTC] Calling function in toLayout
+[11-Nov-2024 19:54:38 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:54:38 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:54:38 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:54:38 UTC] Content length generated: 11800
+[11-Nov-2024 19:54:38 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:54:38 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:54:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:54:38 UTC] File exists: yes
+[11-Nov-2024 19:54:38 UTC] Is readable: yes
+[11-Nov-2024 19:54:38 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:55:23 UTC] Layout content variable exists: no
+[11-Nov-2024 19:55:23 UTC] Layout content length: 0
+[11-Nov-2024 19:55:23 UTC] Starting home page render
+[11-Nov-2024 19:55:23 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] toLayout starting with path: content
+[11-Nov-2024 19:55:23 UTC] Calling function in toLayout
+[11-Nov-2024 19:55:23 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:55:23 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:55:23 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:55:23 UTC] Content length generated: 11800
+[11-Nov-2024 19:55:23 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:55:23 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:55:23 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:55:23 UTC] File exists: yes
+[11-Nov-2024 19:55:23 UTC] Is readable: yes
+[11-Nov-2024 19:55:23 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:56:34 UTC] Layout content variable exists: no
+[11-Nov-2024 19:56:34 UTC] Layout content length: 0
+[11-Nov-2024 19:56:34 UTC] Starting home page render
+[11-Nov-2024 19:56:34 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] toLayout starting with path: content
+[11-Nov-2024 19:56:34 UTC] Calling function in toLayout
+[11-Nov-2024 19:56:34 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:56:34 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:56:34 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:56:34 UTC] Content length generated: 11800
+[11-Nov-2024 19:56:34 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:56:34 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:56:34 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:56:34 UTC] File exists: yes
+[11-Nov-2024 19:56:34 UTC] Is readable: yes
+[11-Nov-2024 19:56:34 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 19:57:01 UTC] Layout content variable exists: no
+[11-Nov-2024 19:57:01 UTC] Layout content length: 0
+[11-Nov-2024 19:57:01 UTC] Starting home page render
+[11-Nov-2024 19:57:01 UTC] Rendering: home with extension: css
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] toLayout starting with path: content
+[11-Nov-2024 19:57:01 UTC] Calling function in toLayout
+[11-Nov-2024 19:57:01 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] Rendering: logo with extension: php
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 19:57:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:57:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 19:57:01 UTC] Content length generated: 11823
+[11-Nov-2024 19:57:01 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 19:57:01 UTC] Rendering: layout with extension: php
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] Rendering: reset with extension: css
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] Rendering: style with extension: css
+[11-Nov-2024 19:57:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 19:57:01 UTC] File exists: yes
+[11-Nov-2024 19:57:01 UTC] Is readable: yes
+[11-Nov-2024 19:57:01 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 20:04:20 UTC] Layout content variable exists: no
+[11-Nov-2024 20:04:20 UTC] Layout content length: 0
+[11-Nov-2024 20:04:20 UTC] Starting home page render
+[11-Nov-2024 20:04:20 UTC] Rendering: home with extension: css
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] toLayout starting with path: content
+[11-Nov-2024 20:04:20 UTC] Calling function in toLayout
+[11-Nov-2024 20:04:20 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] Rendering: logo with extension: php
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 20:04:20 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 20:04:20 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 20:04:20 UTC] Content length generated: 11837
+[11-Nov-2024 20:04:20 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 20:04:20 UTC] Rendering: layout with extension: php
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] Rendering: reset with extension: css
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] Rendering: style with extension: css
+[11-Nov-2024 20:04:20 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 20:04:20 UTC] File exists: yes
+[11-Nov-2024 20:04:20 UTC] Is readable: yes
+[11-Nov-2024 20:04:20 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 20:08:21 UTC] Layout content variable exists: no
+[11-Nov-2024 20:08:21 UTC] Layout content length: 0
+[11-Nov-2024 20:08:21 UTC] Starting home page render
+[11-Nov-2024 20:08:21 UTC] Rendering: home with extension: css
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] toLayout starting with path: content
+[11-Nov-2024 20:08:21 UTC] Calling function in toLayout
+[11-Nov-2024 20:08:21 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] Rendering: logo with extension: php
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 20:08:21 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 20:08:21 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 20:08:21 UTC] Content length generated: 11837
+[11-Nov-2024 20:08:21 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 20:08:21 UTC] Rendering: layout with extension: php
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] Rendering: reset with extension: css
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] Rendering: style with extension: css
+[11-Nov-2024 20:08:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 20:08:21 UTC] File exists: yes
+[11-Nov-2024 20:08:21 UTC] Is readable: yes
+[11-Nov-2024 20:08:21 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:32:03 UTC] Layout content variable exists: no
+[11-Nov-2024 21:32:03 UTC] Layout content length: 0
+[11-Nov-2024 21:32:03 UTC] Starting home page render
+[11-Nov-2024 21:32:03 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] toLayout starting with path: content
+[11-Nov-2024 21:32:03 UTC] Calling function in toLayout
+[11-Nov-2024 21:32:03 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:32:03 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:32:03 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:32:03 UTC] Content length generated: 11837
+[11-Nov-2024 21:32:03 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:32:03 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:32:03 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:32:03 UTC] File exists: yes
+[11-Nov-2024 21:32:03 UTC] Is readable: yes
+[11-Nov-2024 21:32:03 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:37:27 UTC] Layout content variable exists: no
+[11-Nov-2024 21:37:27 UTC] Layout content length: 0
+[11-Nov-2024 21:37:27 UTC] Starting home page render
+[11-Nov-2024 21:37:27 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] Calling function in toLayout
+[11-Nov-2024 21:37:27 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:37:27 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:37:27 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:37:27 UTC] Content length generated: 11837
+[11-Nov-2024 21:37:27 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:37:27 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:37:27 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:37:27 UTC] File exists: yes
+[11-Nov-2024 21:37:27 UTC] Is readable: yes
+[11-Nov-2024 21:37:27 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:43:48 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/html.php on line 15
+[11-Nov-2024 21:44:06 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/html.php on line 15
+[11-Nov-2024 21:44:18 UTC] Layout content variable exists: no
+[11-Nov-2024 21:44:18 UTC] Layout content length: 0
+[11-Nov-2024 21:44:18 UTC] Starting home page render
+[11-Nov-2024 21:44:18 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] Calling function in toLayout
+[11-Nov-2024 21:44:18 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:44:18 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:44:18 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:44:18 UTC] Content length generated: 11854
+[11-Nov-2024 21:44:18 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:44:18 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:44:18 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:44:18 UTC] File exists: yes
+[11-Nov-2024 21:44:18 UTC] Is readable: yes
+[11-Nov-2024 21:44:18 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:44:37 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/html.php on line 15
+[11-Nov-2024 21:45:12 UTC] Layout content variable exists: no
+[11-Nov-2024 21:45:12 UTC] Layout content length: 0
+[11-Nov-2024 21:45:12 UTC] Starting home page render
+[11-Nov-2024 21:45:12 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] Calling function in toLayout
+[11-Nov-2024 21:45:12 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:12 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:12 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:12 UTC] Content length generated: 11854
+[11-Nov-2024 21:45:12 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:45:12 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:45:12 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:45:12 UTC] File exists: yes
+[11-Nov-2024 21:45:12 UTC] Is readable: yes
+[11-Nov-2024 21:45:12 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:45:16 UTC] Layout content variable exists: no
+[11-Nov-2024 21:45:16 UTC] Layout content length: 0
+[11-Nov-2024 21:45:16 UTC] Starting home page render
+[11-Nov-2024 21:45:16 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] Calling function in toLayout
+[11-Nov-2024 21:45:16 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:16 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:16 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:16 UTC] Content length generated: 12085
+[11-Nov-2024 21:45:16 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:45:16 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:45:16 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:45:16 UTC] File exists: yes
+[11-Nov-2024 21:45:16 UTC] Is readable: yes
+[11-Nov-2024 21:45:16 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:45:24 UTC] Layout content variable exists: no
+[11-Nov-2024 21:45:24 UTC] Layout content length: 0
+[11-Nov-2024 21:45:24 UTC] Starting home page render
+[11-Nov-2024 21:45:24 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] Calling function in toLayout
+[11-Nov-2024 21:45:24 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:24 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:24 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:24 UTC] Content length generated: 12094
+[11-Nov-2024 21:45:24 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:45:24 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:45:24 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:45:24 UTC] File exists: yes
+[11-Nov-2024 21:45:24 UTC] Is readable: yes
+[11-Nov-2024 21:45:24 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:45:37 UTC] Layout content variable exists: no
+[11-Nov-2024 21:45:37 UTC] Layout content length: 0
+[11-Nov-2024 21:45:37 UTC] Starting home page render
+[11-Nov-2024 21:45:37 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] Calling function in toLayout
+[11-Nov-2024 21:45:37 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:37 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:37 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:37 UTC] Content length generated: 12099
+[11-Nov-2024 21:45:37 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:45:37 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:45:37 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:45:37 UTC] File exists: yes
+[11-Nov-2024 21:45:37 UTC] Is readable: yes
+[11-Nov-2024 21:45:37 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:45:53 UTC] Layout content variable exists: no
+[11-Nov-2024 21:45:53 UTC] Layout content length: 0
+[11-Nov-2024 21:45:53 UTC] Starting home page render
+[11-Nov-2024 21:45:53 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] Calling function in toLayout
+[11-Nov-2024 21:45:53 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:45:53 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:53 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:45:53 UTC] Content length generated: 12113
+[11-Nov-2024 21:45:53 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:45:53 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:45:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:45:53 UTC] File exists: yes
+[11-Nov-2024 21:45:53 UTC] Is readable: yes
+[11-Nov-2024 21:45:53 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:46:00 UTC] Layout content variable exists: no
+[11-Nov-2024 21:46:00 UTC] Layout content length: 0
+[11-Nov-2024 21:46:00 UTC] Starting home page render
+[11-Nov-2024 21:46:00 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] Calling function in toLayout
+[11-Nov-2024 21:46:00 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:00 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:00 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:00 UTC] Content length generated: 12113
+[11-Nov-2024 21:46:00 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:46:00 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:46:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:46:00 UTC] File exists: yes
+[11-Nov-2024 21:46:00 UTC] Is readable: yes
+[11-Nov-2024 21:46:00 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:46:01 UTC] Layout content variable exists: no
+[11-Nov-2024 21:46:01 UTC] Layout content length: 0
+[11-Nov-2024 21:46:01 UTC] Starting home page render
+[11-Nov-2024 21:46:01 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] Calling function in toLayout
+[11-Nov-2024 21:46:01 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:01 UTC] Content length generated: 12113
+[11-Nov-2024 21:46:01 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:46:01 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:46:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:46:01 UTC] File exists: yes
+[11-Nov-2024 21:46:01 UTC] Is readable: yes
+[11-Nov-2024 21:46:01 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:46:07 UTC] Layout content variable exists: no
+[11-Nov-2024 21:46:07 UTC] Layout content length: 0
+[11-Nov-2024 21:46:07 UTC] Starting home page render
+[11-Nov-2024 21:46:07 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] Calling function in toLayout
+[11-Nov-2024 21:46:07 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:07 UTC] Content length generated: 12118
+[11-Nov-2024 21:46:07 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:46:07 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:46:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:46:07 UTC] File exists: yes
+[11-Nov-2024 21:46:07 UTC] Is readable: yes
+[11-Nov-2024 21:46:07 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:46:32 UTC] Layout content variable exists: no
+[11-Nov-2024 21:46:32 UTC] Layout content length: 0
+[11-Nov-2024 21:46:32 UTC] Starting home page render
+[11-Nov-2024 21:46:32 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] Calling function in toLayout
+[11-Nov-2024 21:46:32 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:32 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:32 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:32 UTC] Content length generated: 12142
+[11-Nov-2024 21:46:32 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:46:32 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:46:32 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:46:32 UTC] File exists: yes
+[11-Nov-2024 21:46:32 UTC] Is readable: yes
+[11-Nov-2024 21:46:32 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:46:38 UTC] Layout content variable exists: no
+[11-Nov-2024 21:46:38 UTC] Layout content length: 0
+[11-Nov-2024 21:46:38 UTC] Starting home page render
+[11-Nov-2024 21:46:38 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] Calling function in toLayout
+[11-Nov-2024 21:46:38 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:38 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:38 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:38 UTC] Content length generated: 12142
+[11-Nov-2024 21:46:38 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:46:38 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:46:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:46:38 UTC] File exists: yes
+[11-Nov-2024 21:46:38 UTC] Is readable: yes
+[11-Nov-2024 21:46:38 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:46:52 UTC] Layout content variable exists: no
+[11-Nov-2024 21:46:52 UTC] Layout content length: 0
+[11-Nov-2024 21:46:52 UTC] Starting home page render
+[11-Nov-2024 21:46:52 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] Calling function in toLayout
+[11-Nov-2024 21:46:52 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:52 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:52 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:52 UTC] Content length generated: 12152
+[11-Nov-2024 21:46:52 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:46:52 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:46:52 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:46:52 UTC] File exists: yes
+[11-Nov-2024 21:46:52 UTC] Is readable: yes
+[11-Nov-2024 21:46:52 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:46:53 UTC] Layout content variable exists: no
+[11-Nov-2024 21:46:53 UTC] Layout content length: 0
+[11-Nov-2024 21:46:53 UTC] Starting home page render
+[11-Nov-2024 21:46:53 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] Calling function in toLayout
+[11-Nov-2024 21:46:53 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:46:53 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:53 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:46:53 UTC] Content length generated: 12152
+[11-Nov-2024 21:46:53 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:46:53 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:46:53 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:46:53 UTC] File exists: yes
+[11-Nov-2024 21:46:53 UTC] Is readable: yes
+[11-Nov-2024 21:46:53 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:47:06 UTC] Layout content variable exists: no
+[11-Nov-2024 21:47:06 UTC] Layout content length: 0
+[11-Nov-2024 21:47:06 UTC] Starting home page render
+[11-Nov-2024 21:47:06 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:47:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:47:06 UTC] File exists: yes
+[11-Nov-2024 21:47:06 UTC] Is readable: yes
+[11-Nov-2024 21:47:06 UTC] Calling function in toLayout
+[11-Nov-2024 21:47:06 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:47:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:47:06 UTC] File exists: yes
+[11-Nov-2024 21:47:06 UTC] Is readable: yes
+[11-Nov-2024 21:47:06 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:47:06 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:47:06 UTC] File exists: yes
+[11-Nov-2024 21:47:07 UTC] Is readable: yes
+[11-Nov-2024 21:47:07 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:47:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:47:07 UTC] File exists: yes
+[11-Nov-2024 21:47:07 UTC] Is readable: yes
+[11-Nov-2024 21:47:07 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:47:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:47:07 UTC] File exists: yes
+[11-Nov-2024 21:47:07 UTC] Is readable: yes
+[11-Nov-2024 21:47:07 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:47:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:47:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:47:07 UTC] File exists: yes
+[11-Nov-2024 21:47:07 UTC] Is readable: yes
+[11-Nov-2024 21:47:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:47:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:47:07 UTC] Content length generated: 12152
+[11-Nov-2024 21:47:07 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:47:07 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:47:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:47:07 UTC] File exists: yes
+[11-Nov-2024 21:47:07 UTC] Is readable: yes
+[11-Nov-2024 21:47:07 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:47:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:47:07 UTC] File exists: yes
+[11-Nov-2024 21:47:07 UTC] Is readable: yes
+[11-Nov-2024 21:47:07 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:47:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:47:07 UTC] File exists: yes
+[11-Nov-2024 21:47:07 UTC] Is readable: yes
+[11-Nov-2024 21:47:07 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:47:45 UTC] Layout content variable exists: no
+[11-Nov-2024 21:47:45 UTC] Layout content length: 0
+[11-Nov-2024 21:47:45 UTC] Starting home page render
+[11-Nov-2024 21:47:45 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] Calling function in toLayout
+[11-Nov-2024 21:47:45 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:47:45 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:47:45 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:47:45 UTC] Content length generated: 12152
+[11-Nov-2024 21:47:45 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:47:45 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:47:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:47:45 UTC] File exists: yes
+[11-Nov-2024 21:47:45 UTC] Is readable: yes
+[11-Nov-2024 21:47:45 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:48:02 UTC] Layout content variable exists: no
+[11-Nov-2024 21:48:02 UTC] Layout content length: 0
+[11-Nov-2024 21:48:02 UTC] Starting home page render
+[11-Nov-2024 21:48:02 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] Calling function in toLayout
+[11-Nov-2024 21:48:02 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:48:02 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:02 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:02 UTC] Content length generated: 12156
+[11-Nov-2024 21:48:02 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:48:02 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:48:02 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:48:02 UTC] File exists: yes
+[11-Nov-2024 21:48:02 UTC] Is readable: yes
+[11-Nov-2024 21:48:02 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:48:07 UTC] Layout content variable exists: no
+[11-Nov-2024 21:48:07 UTC] Layout content length: 0
+[11-Nov-2024 21:48:07 UTC] Starting home page render
+[11-Nov-2024 21:48:07 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] Calling function in toLayout
+[11-Nov-2024 21:48:07 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:48:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:07 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:07 UTC] Content length generated: 12156
+[11-Nov-2024 21:48:07 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:48:07 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:48:07 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:48:07 UTC] File exists: yes
+[11-Nov-2024 21:48:07 UTC] Is readable: yes
+[11-Nov-2024 21:48:07 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:48:28 UTC] Layout content variable exists: no
+[11-Nov-2024 21:48:28 UTC] Layout content length: 0
+[11-Nov-2024 21:48:28 UTC] Starting home page render
+[11-Nov-2024 21:48:28 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] Calling function in toLayout
+[11-Nov-2024 21:48:28 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:48:28 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:28 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:48:28 UTC] Content length generated: 12163
+[11-Nov-2024 21:48:28 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:48:28 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:48:28 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:48:28 UTC] File exists: yes
+[11-Nov-2024 21:48:28 UTC] Is readable: yes
+[11-Nov-2024 21:48:28 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:53:01 UTC] Layout content variable exists: no
+[11-Nov-2024 21:53:01 UTC] Layout content length: 0
+[11-Nov-2024 21:53:01 UTC] Starting home page render
+[11-Nov-2024 21:53:01 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] Calling function in toLayout
+[11-Nov-2024 21:53:01 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:53:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:53:01 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:53:01 UTC] Content length generated: 12511
+[11-Nov-2024 21:53:01 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:53:01 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:53:01 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:53:01 UTC] File exists: yes
+[11-Nov-2024 21:53:01 UTC] Is readable: yes
+[11-Nov-2024 21:53:01 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:54:29 UTC] Layout content variable exists: no
+[11-Nov-2024 21:54:29 UTC] Layout content length: 0
+[11-Nov-2024 21:54:29 UTC] Starting home page render
+[11-Nov-2024 21:54:29 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Calling function in toLayout
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:54:29 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:54:29 UTC] Content length generated: 12802
+[11-Nov-2024 21:54:29 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:54:29 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:54:29 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:54:29 UTC] File exists: yes
+[11-Nov-2024 21:54:29 UTC] Is readable: yes
+[11-Nov-2024 21:54:29 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:55:10 UTC] Layout content variable exists: no
+[11-Nov-2024 21:55:10 UTC] Layout content length: 0
+[11-Nov-2024 21:55:10 UTC] Starting home page render
+[11-Nov-2024 21:55:10 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Calling function in toLayout
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:55:10 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:55:10 UTC] Content length generated: 12802
+[11-Nov-2024 21:55:10 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:55:10 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:55:10 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:55:10 UTC] File exists: yes
+[11-Nov-2024 21:55:10 UTC] Is readable: yes
+[11-Nov-2024 21:55:10 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:55:57 UTC] Layout content variable exists: no
+[11-Nov-2024 21:55:57 UTC] Layout content length: 0
+[11-Nov-2024 21:55:57 UTC] Starting home page render
+[11-Nov-2024 21:55:57 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Calling function in toLayout
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:55:57 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:55:57 UTC] Content length generated: 12802
+[11-Nov-2024 21:55:57 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:55:57 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:55:57 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:55:57 UTC] File exists: yes
+[11-Nov-2024 21:55:57 UTC] Is readable: yes
+[11-Nov-2024 21:55:57 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:56:00 UTC] Layout content variable exists: no
+[11-Nov-2024 21:56:00 UTC] Layout content length: 0
+[11-Nov-2024 21:56:00 UTC] Starting home page render
+[11-Nov-2024 21:56:00 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Calling function in toLayout
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:56:00 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:56:00 UTC] Content length generated: 12802
+[11-Nov-2024 21:56:00 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:56:00 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:56:00 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:56:00 UTC] File exists: yes
+[11-Nov-2024 21:56:00 UTC] Is readable: yes
+[11-Nov-2024 21:56:00 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:57:35 UTC] Layout content variable exists: no
+[11-Nov-2024 21:57:35 UTC] Layout content length: 0
+[11-Nov-2024 21:57:35 UTC] Starting home page render
+[11-Nov-2024 21:57:35 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Calling function in toLayout
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:57:35 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:57:35 UTC] Content length generated: 12802
+[11-Nov-2024 21:57:35 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:57:35 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:57:35 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:57:35 UTC] File exists: yes
+[11-Nov-2024 21:57:35 UTC] Is readable: yes
+[11-Nov-2024 21:57:35 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:57:45 UTC] Layout content variable exists: no
+[11-Nov-2024 21:57:45 UTC] Layout content length: 0
+[11-Nov-2024 21:57:45 UTC] Starting home page render
+[11-Nov-2024 21:57:45 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Calling function in toLayout
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:57:45 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:57:45 UTC] Content length generated: 12802
+[11-Nov-2024 21:57:45 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:57:45 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:57:45 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:57:45 UTC] File exists: yes
+[11-Nov-2024 21:57:45 UTC] Is readable: yes
+[11-Nov-2024 21:57:45 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:58:14 UTC] Layout content variable exists: no
+[11-Nov-2024 21:58:14 UTC] Layout content length: 0
+[11-Nov-2024 21:58:14 UTC] Starting home page render
+[11-Nov-2024 21:58:14 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Calling function in toLayout
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:58:14 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:58:14 UTC] Content length generated: 12802
+[11-Nov-2024 21:58:14 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:58:14 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:58:14 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:58:14 UTC] File exists: yes
+[11-Nov-2024 21:58:14 UTC] Is readable: yes
+[11-Nov-2024 21:58:14 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:58:31 UTC] Layout content variable exists: no
+[11-Nov-2024 21:58:31 UTC] Layout content length: 0
+[11-Nov-2024 21:58:31 UTC] Starting home page render
+[11-Nov-2024 21:58:31 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Calling function in toLayout
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:58:31 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:58:31 UTC] Content length generated: 12826
+[11-Nov-2024 21:58:31 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:58:31 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:58:31 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:58:31 UTC] File exists: yes
+[11-Nov-2024 21:58:31 UTC] Is readable: yes
+[11-Nov-2024 21:58:31 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:59:21 UTC] Layout content variable exists: no
+[11-Nov-2024 21:59:21 UTC] Layout content length: 0
+[11-Nov-2024 21:59:21 UTC] Starting home page render
+[11-Nov-2024 21:59:21 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Calling function in toLayout
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:59:21 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:59:21 UTC] Content length generated: 12826
+[11-Nov-2024 21:59:21 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:59:21 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:59:21 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:59:21 UTC] File exists: yes
+[11-Nov-2024 21:59:21 UTC] Is readable: yes
+[11-Nov-2024 21:59:21 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27
+[11-Nov-2024 21:59:46 UTC] Layout content variable exists: no
+[11-Nov-2024 21:59:46 UTC] Layout content length: 0
+[11-Nov-2024 21:59:46 UTC] Starting home page render
+[11-Nov-2024 21:59:46 UTC] Rendering: home with extension: css
+[11-Nov-2024 21:59:46 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[11-Nov-2024 21:59:46 UTC] File exists: yes
+[11-Nov-2024 21:59:46 UTC] Is readable: yes
+[11-Nov-2024 21:59:46 UTC] Calling function in toLayout
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/header with extension: php
+[11-Nov-2024 21:59:46 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[11-Nov-2024 21:59:46 UTC] File exists: yes
+[11-Nov-2024 21:59:46 UTC] Is readable: yes
+[11-Nov-2024 21:59:46 UTC] Rendering: logo with extension: php
+[11-Nov-2024 21:59:46 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[11-Nov-2024 21:59:46 UTC] File exists: yes
+[11-Nov-2024 21:59:46 UTC] Is readable: yes
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:59:46 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[11-Nov-2024 21:59:46 UTC] File exists: yes
+[11-Nov-2024 21:59:46 UTC] Is readable: yes
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:59:46 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[11-Nov-2024 21:59:46 UTC] File exists: yes
+[11-Nov-2024 21:59:46 UTC] Is readable: yes
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/map with extension: php
+[11-Nov-2024 21:59:46 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[11-Nov-2024 21:59:46 UTC] File exists: yes
+[11-Nov-2024 21:59:46 UTC] Is readable: yes
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/a50 with extension: php
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:59:46 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[11-Nov-2024 21:59:46 UTC] File exists: yes
+[11-Nov-2024 21:59:46 UTC] Is readable: yes
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/a33 with extension: php
+[11-Nov-2024 21:59:46 UTC] Rendering: parts/contactBar with extension: php
+[11-Nov-2024 21:59:46 UTC] Content length generated: 12826
+[11-Nov-2024 21:59:46 UTC] First 100 chars of content: 
+  <div class="hero main tac" style="background-image:url(/i/home/heroes/main/1800.jpg)">
+    <div c
+[11-Nov-2024 21:59:46 UTC] Rendering: layout with extension: php
+[11-Nov-2024 21:59:46 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[11-Nov-2024 21:59:46 UTC] File exists: yes
+[11-Nov-2024 21:59:46 UTC] Is readable: yes
+[11-Nov-2024 21:59:47 UTC] Rendering: reset with extension: css
+[11-Nov-2024 21:59:47 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[11-Nov-2024 21:59:47 UTC] File exists: yes
+[11-Nov-2024 21:59:47 UTC] Is readable: yes
+[11-Nov-2024 21:59:47 UTC] Rendering: style with extension: css
+[11-Nov-2024 21:59:47 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[11-Nov-2024 21:59:47 UTC] File exists: yes
+[11-Nov-2024 21:59:47 UTC] Is readable: yes
+[11-Nov-2024 21:59:47 UTC] PHP Notice:  Undefined variable: style in /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/views/layout.php on line 27

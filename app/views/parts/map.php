@@ -18,13 +18,24 @@ yieldStyle($css);
     <h3>
       <span class="fs16 fw2"><?= $h3 ?></span>
       <span
-        id="google"
-        class="mp btn copy fs6 p8 tduh alpha-nite"
-        data-copy="https://maps.app.goo.gl/9TX5Y2pUjMWRzHvM8"
-        onclick="copyMe(this)">
+        id="google" class="mp ml16 btn copy fs6 p8 tduh alpha-nite"
+        data-copy="https://maps.app.goo.gl/9TX5Y2pUjMWRzHvM8">
         <?= $btn ?>
       </span>
     </h3>
     <p class="fw6 fs12 alpha-dark"><?= $txt ?></p>
   </div>
 </div>
+<?= ui('parts/contactBar'); ?>
+<script type='text/javascript'>
+document.querySelectorAll('.copy').forEach(b => {
+  b.addEventListener('click', function() {
+    const originalText = this.innerText;
+    const textToCopy = this.dataset.copy;
+    navigator.clipboard.writeText(textToCopy).then(() => {
+      this.innerText = 'Copied Google Maps Link!';
+      setTimeout(() => this.innerText = originalText, 3000);
+    });
+  });
+});
+</script>

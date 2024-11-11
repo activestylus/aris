@@ -26,6 +26,7 @@ input, button, textarea, select{ font: inherit; }
 .px8,p {padding-top:<?=$p1?>;padding-bottom:<?=$p1?>}
 .mt16 {margin-top:<?=$p2?>}
 .mr16 {margin-right:<?=$p2?>}
+.ml16 {margin-left:<?=$p2?>}
 .bac {margin-left:auto;margin-right:auto}
 .max {max-width:1800px}
 .tdn,.tdn:hover,.tduh, .tduh * {text-decoration: none}
@@ -70,10 +71,16 @@ p {line-height:1.55em}
 .f33 {flex: 0 0 calc(33% - <?= $gap / 2 ?>px)}
 .f60 {flex: 0 0 calc(60% - <?= $gap / 2 ?>px)}
 .andBreak {display: none;}
+.h2mo {font-size: 1.7em;}
+@media (max-width: 1280px) {
+  .h2mo {font-size: 1.5em;}
+}
 @media (max-width: 960px) {
   .andBreak {display:block;}
+  .h2mo {font-size: 1.4em;}
 }
 @media (max-width: 768px) {
+  .h2mo {font-size: 1.3em;}
   .f66,.f60,.f50,.f40,.f33{flex: 0 0 100%;}
   body .a50 { padding-top: 65%; }
   body .a33 { padding-top: 65%; }
