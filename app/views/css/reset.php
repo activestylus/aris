@@ -63,7 +63,6 @@ p {line-height:1.55em}
 .fs24 {font-size: 2.4em}
 .fs27 {font-size: 2.7em}
 .fs32 {font-size: 3.2em}
-
 .db {display: block}.dib {display: inline-block}
 .flex {display: flex; flex-wrap: wrap; width: 100%; gap:<?=$gap?>px}
 .f50 {flex: 0 0 calc(50% - <?= $gap / 2 ?>px)}
@@ -72,16 +71,3 @@ p {line-height:1.55em}
 .f60 {flex: 0 0 calc(60% - <?= $gap / 2 ?>px)}
 .andBreak {display: none;}
 .h2mo {font-size: 1.7em;}
-@media (max-width: 1280px) {
-  .h2mo {font-size: 1.5em;}
-}
-@media (max-width: 960px) {
-  .andBreak {display:block;}
-  .h2mo {font-size: 1.4em;}
-}
-@media (max-width: 768px) {
-  .h2mo {font-size: 1.3em;}
-  .f66,.f60,.f50,.f40,.f33{flex: 0 0 100%;}
-  body .a50 { padding-top: 65%; }
-  body .a33 { padding-top: 65%; }
-}

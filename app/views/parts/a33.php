@@ -1,9 +1,13 @@
 <?php
-$css = <<<EOT
+$css = <<<c
 .a33 {padding-top:25%;  border-radius:4px}
 .a33:hover strong {color:black; text-decoration:underline}
-EOT;
-yieldStyle($css);
+c;
+style($css);
+$mob = <<<c
+body .a33 { padding-top: 65%; }
+c;
+media('768',$mob);
 ?>
 <div class="group flex bac max p16">
   <?php foreach ($group as $g): ?>

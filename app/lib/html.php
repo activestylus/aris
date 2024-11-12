@@ -13,22 +13,4 @@ function hex_encode($str) {$hex = ''; for ($i = 0; $i < strlen($str); $i++) {$he
 function emailTo($text, $email) {return sprintf( '<a class="dib" href="mailto:%s">%s</a>', hex_encode($email), htmlspecialchars($text, ENT_QUOTES, 'UTF-8'));}
 function phoneTo($text, $phone) {return sprintf('<a class="dib" href="tel:%s">%s</a>',hex_encode($phone),htmlspecialchars($text, ENT_QUOTES, 'UTF-8'));}
 
-function toLayout($path, callable $fn): string {
-    ob_start();
-    try {
-        error_log("Calling function in toLayout");
-        $fn();
-        $content = ob_get_clean();
-        error_log("Content length generated: " . strlen($content));
-        error_log("First 100 chars of content: " . substr($content, 0, 100));
-        return $content;
-    } catch (Throwable $e) {
-        ob_end_clean();
-        error_log("Error in toLayout: " . $e->getMessage());
-        error_log("Stack trace: " . $e->getTraceAsString());
-        return "Error in layout: " . $e->getMessage();
-    }
-}
-error_log("Layout content variable exists: " . (isset($content) ? "yes" : "no"));
-error_log("Layout content length: " . (isset($content) ? strlen($content) : 0));
 ?>

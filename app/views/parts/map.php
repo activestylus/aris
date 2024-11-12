@@ -8,7 +8,7 @@ $css = <<<EOT
   .map {height:190px;} .mp {border:1px solid alpha-dark;}
   .mp:hover {background:#fff}
 EOT;
-yieldStyle($css);
+style($css);
 ?>
 <div class="p16 mt16 pb0 tac bac max flex bg-alpha-pale">
   <div class="f40 bcov map bgcc" style="<?= bg($src) ?>">

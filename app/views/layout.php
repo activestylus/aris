@@ -25,6 +25,15 @@ $src   = $site . $imag
         <?= cssFile('reset','style'); ?>
         <!--YIELD_STYLES-->
         <?= is($style); ?>
+<?php
+media('1280',".h2mo {font-size: 1.5em;}");
+media('960',".andBreak {display:block;} .h2mo {font-size: 1.4em;}");
+$m768=<<<M
+.h2mo {font-size: 1.3em;}
+.f66,.f60,.f50,.f40,.f33{flex: 0 0 100%;}
+M;
+media('768',$m768);
+?>
     </style>
 </head>
 <body>
