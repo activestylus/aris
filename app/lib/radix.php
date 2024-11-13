@@ -1,32 +1,49 @@
 <?php
-function benchmark_memory(callable $fn, string $name) {
-    $mem_start = memory_get_usage(); $result = $fn();
-    $mem_end = memory_get_usage();
-    echo "$name Memory Usage: " . (($mem_end - $mem_start) / 1024) . " KB\n";return $result;
+// Ensure default server variables when running via CLI
+if (php_sapi_name() === 'cli') {
+    $_SERVER['REQUEST_METHOD'] = 'GET';
+    $_SERVER['REQUEST_URI'] = '/';
 }
+
+function benchmark_memory(callable $fn, string $name) {
+    $mem_start = memory_get_usage();
+    $result = $fn();
+    $mem_end = memory_get_usage();
+    echo "$name Memory Usage: " . (($mem_end - $mem_start) / 1024) . " KB\n";
+    return $result;
+}
+
 function benchmark_time(callable $fn, string $name, int $iterations) {
     $start = microtime(true);
-    for ($i = 0; $i < $iterations; $i++) { $fn(); }
+    for ($i = 0; $i < $iterations; $i++) {
+        $fn();
+    }
     $end = microtime(true);
     echo "$name Time for $iterations iterations: " . (($end - $start) * 1000) . " ms\n";
 }
+
 // Pattern definitions - used for route parameter validation
-const PATTERN = [ 'id'   => '\d+', 'slug' => '[a-z0-9-]+',
-    'any'  => '[^/]+', 'uuid' => '[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}'
+const PATTERN = [
+    'id'   => '\d+',
+    'slug' => '[a-z0-9-]+',
+    'any'  => '[^/]+',
+    'uuid' => '[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}'
 ];
+
 function create_router(array $config = []) {
     // Internal router state
     $state = [
         'patterns' => PATTERN,
         'middleware' => [
-            'auth' => function($next) { 
-                return empty($_SESSION['user']) 
+            'auth' => function($next) {
+                return empty($_SESSION['user'])
                     ? ['status' => 401, 'body' => 'Unauthorized']
                     : $next();
             },
-            'csrf' => function($next) { 
-                return $_SERVER['REQUEST_METHOD'] === 'POST' && 
-                       (!isset($_POST['_csrf']) || $_POST['_csrf'] !== $_SESSION['_csrf'])
+            'csrf' => function($next) {
+                $request_method = $_SERVER['REQUEST_METHOD'] ?? 'GET';
+                return $request_method === 'POST' &&
+                       (!isset($_POST['_csrf']) || $_POST['_csrf'] !== ($_SESSION['_csrf'] ?? null))
                     ? ['status' => 403, 'body' => 'Invalid CSRF']
                     : $next();
             },
@@ -36,7 +53,7 @@ function create_router(array $config = []) {
                 return is_array($result) ? json_encode($result) : $result;
             },
             'cache' => function($next) use (&$state) {
-                $key = md5($_SERVER['REQUEST_URI']);
+                $key = md5($_SERVER['REQUEST_URI'] ?? '/');
                 return isset($state['cache'][$key]) ? $state['cache'][$key] : ($state['cache'][$key] = $next());
             },
             'cors' => function($next) {
@@ -45,13 +62,15 @@ function create_router(array $config = []) {
                     "Access-Control-Allow-Methods: GET, POST, OPTIONS"
                 ];
                 foreach($headers as $h) header($h);
-                return $_SERVER['REQUEST_METHOD'] === 'OPTIONS' 
+                $request_method = $_SERVER['REQUEST_METHOD'] ?? 'GET';
+                return $request_method === 'OPTIONS'
                     ? (header("HTTP/1.1 200 OK") || exit())
                     : $next();
             },
             'method' => function($next) {
-                static $allowed = ['GET' => 1, 'POST' => 1, 'PUT' => 1, 'DELETE' => 1, 'PATCH' => 1];
-                return isset($allowed[$_SERVER['REQUEST_METHOD']])
+                static $allowed = ['GET' => true, 'POST' => true, 'PUT' => true, 'DELETE' => true, 'PATCH' => true];
+                $request_method = $_SERVER['REQUEST_METHOD'] ?? 'GET';
+                return isset($allowed[$request_method])
                     ? $next()
                     : ['status' => 405, 'body' => 'Method Not Allowed'];
             }
@@ -65,163 +84,176 @@ function create_router(array $config = []) {
         static $pattern_cache = [];
         static $mw_chain_cache = [];
         $processed = [];
-        $processed_idx = 0;
-        $routes_len = count($routes);
+
         // Pre-compile common middleware chains
         $mw_key = implode(',', $parent_middleware);
         if (!isset($mw_chain_cache[$mw_key])) {
             $mw_chain_cache[$mw_key] = array_merge(['method'], $parent_middleware);
         }
-        for($i = 0; $i < $routes_len; ++$i) {
-            $route = &$routes[$i];
+
+        foreach ($routes as $route) {
             if (!isset($route[0])) continue;
+
             if ($route[0] === 'group') {
                 if (!isset($route[3])) continue;
                 $group_path = $parent_path . $route[1];
-                $mw_configs = &$route[2];
-                $mw_len = count($mw_configs);
-                
-                $group_middleware = $parent_middleware;
-                for($j = 0; $j < $mw_len; ++$j) {
-                    $mw = &$mw_configs[$j];
-                    if (isset($mw[0])) $group_middleware[] = $mw[0];
-                }
-                
+                $group_middleware = array_merge($parent_middleware, array_column($route[2], 0));
+
                 $children_routes = $process_routes($route[3], $group_middleware, $group_path);
-                $children_len = count($children_routes);
-                
-                for($k = 0; $k < $children_len; ++$k) {
-                    $processed[$processed_idx++] = $children_routes[$k];
-                }
+                $processed = array_merge($processed, $children_routes);
                 continue;
             }
-            if (!isset($route[2])) continue;
+
             $method = $route[0];
             $path = $parent_path . $route[1];
             $handler = $route[2];
-            $cache = null;
-            $pattern_ids = null;
+            $opts = $route[3] ?? [];
+            $ids = $route[4] ?? [];
+
             $middleware = $mw_chain_cache[$mw_key];
-            if (isset($route[3])) {
-                $opts = &$route[3];
-                if (isset($opts['name'])) {
-                    $state['named_routes'][$opts['name']] = $path;
-                }
-                if (isset($opts[0])) {
-                    if (isset($opts[0][0])) {
-                        $chain_key = $mw_key;
-                        $mw_len = count($opts);
-                        for($m = 0; $m < $mw_len; ++$m) {
-                            $mw = &$opts[$m];
-                            if ($mw[0] === 'cache') {
-                                $cache = $mw[1];
-                            } else {
-                                $chain_key .= ',' . $mw[0];
-                            }
+            $cache = null;
+
+            if (isset($opts['name'])) {
+                $state['named_routes'][$opts['name']] = $path;
+            }
+
+            if (!empty($opts) && isset($opts[0]) && is_array($opts[0])) {
+                // Middleware specified
+                $chain_key = $mw_key;
+                foreach ($opts as $opt) {
+                    if (is_array($opt)) {
+                        $mw = $opt[0];
+                        if ($mw === 'cache') {
+                            $cache = $opt[1];
+                        } else {
+                            $chain_key .= ',' . $mw;
                         }
-                        if (!isset($mw_chain_cache[$chain_key])) {
-                            $mw_chain_cache[$chain_key] = array_merge($middleware, array_column($opts, 0));
-                        }
-                        $middleware = $mw_chain_cache[$chain_key];
-                    } else {
-                        $pattern_ids = $opts;
                     }
                 }
+                if (!isset($mw_chain_cache[$chain_key])) {
+                    $mw_chain_cache[$chain_key] = array_merge($middleware, array_column($opts, 0));
+                }
+                $middleware = $mw_chain_cache[$chain_key];
             }
-            if (isset($route[4]) || $pattern_ids) {
-                $ids = isset($route[4]) ? $route[4] : $pattern_ids;
+
+            $param_names = [];
+            $regex = null;
+
+            if (strpos($path, ':') !== false) {
                 $parts = explode('/', $path);
-                $parts_len = count($parts);
-                $param_names = [];
                 $pattern_idx = 0;
-                $pattern_key = '';
-                for($n = 0; $n < $parts_len; ++$n) {
-                    $part = &$parts[$n];
+                foreach ($parts as $index => $part) {
                     if ($part && $part[0] === ':') {
-                        $param_names[] = substr($part, 1);
-                        $pattern_id = $ids[$pattern_idx++];
-                        $pattern_key .= $pattern_id;
-                        
-                        if (!isset($pattern_cache[$pattern_id])) {
-                            $pattern_cache[$pattern_id] = '(' . $state['patterns'][$pattern_id] . ')';
+                        $param_name = substr($part, 1);
+                        $param_names[] = $param_name;
+                        $pattern_id = $ids[$pattern_idx++] ?? 'any';
+                        $pattern_key = $pattern_id . ':' . $param_name;
+
+                        if (!isset($pattern_cache[$pattern_key])) {
+                            $pattern_cache[$pattern_key] = '(?P<' . $param_name . '>' . $state['patterns'][$pattern_id] . ')';
                         }
-                        $parts[$n] = $pattern_cache[$pattern_id];
+                        $parts[$index] = $pattern_cache[$pattern_key];
                     }
                 }
-                $path = implode('/', $parts);
-                $regex_key = "$method:$path";
-                if (!isset($pattern_cache[$regex_key])) {
-                    $pattern_cache[$regex_key] = "#^$path$#";
-                }
-                $processed[$processed_idx++] = [
-                    $method,
-                    $path,
-                    $handler,
-                    $middleware,
-                    $cache,
-                    $param_names,
-                    $pattern_cache[$regex_key]
-                ];
-            } else {
-                $processed[$processed_idx++] = [
-                    $method,
-                    $path,
-                    $handler,
-                    $middleware,
-                    $cache,
-                    [],
-                    null
-                ];
+                $regex = '#^' . implode('/', $parts) . '$#';
             }
+
+            $processed[] = [
+                $method,
+                $path,
+                $handler,
+                $middleware,
+                $cache,
+                $param_names,
+                $regex
+            ];
         }
 
         return $processed;
     };
 
     $match_route = function($method, $path) use (&$state) {
-        static $static_routes = []; static $dynamic_routes = [];
-        
+        static $static_routes = [];
+        static $dynamic_routes = [];
+
         if (empty($static_routes)) {
             foreach ($state['compiled_routes'] as $route) {
-                if ($route[6] === null) {$static_routes[$route[0]][$route[1]] = [$route[2],[],$route[3],$route[4]];}
-                else {
-                    if (!isset($dynamic_routes[$route[0]])) $dynamic_routes[$route[0]] = [];
-                    $dynamic_routes[$route[0]][] = [$route[2],$route[5],$route[3],$route[4],$route[6]];
+                if ($route[6] === null) {
+                    // Static route
+                    $static_routes[$route[0]][$route[1]] = [$route[2], [], $route[3], $route[4]];
+                } else {
+                    // Dynamic route
+                    $segments = explode('/', trim($route[1], '/'));
+                    $first_segment = $segments[0] ?? '';
+                    $dynamic_routes[$route[0]][$first_segment][] = $route;
                 }
             }
         }
-        
-        if (isset($static_routes[$method][$path])) return $static_routes[$method][$path];
-        
-        if (isset($dynamic_routes[$method])) {
-            foreach ($dynamic_routes[$method] as $route) {
-                if (preg_match($route[4], $path, $matches)) {
-                    array_shift($matches);
-                    return [$route[0],$route[1]?array_combine($route[1],$matches):$matches,$route[2],$route[3]];
+
+        if (isset($static_routes[$method][$path])) {
+            return $static_routes[$method][$path];
+        }
+
+        $segments = explode('/', trim($path, '/'));
+        $first_segment = $segments[0] ?? '';
+
+        if (isset($dynamic_routes[$method][$first_segment])) {
+            foreach ($dynamic_routes[$method][$first_segment] as $route) {
+                if (preg_match($route[6], $path, $matches)) {
+                    $params = [];
+                    foreach ($route[5] as $name) {
+                        if (isset($matches[$name])) {
+                            $params[$name] = $matches[$name];
+                        }
+                    }
+                    return [
+                        $route[2],
+                        $params,
+                        $route[3],
+                        $route[4]
+                    ];
                 }
             }
         }
-        
+
+        // Check routes with dynamic first segment
+        if (isset($dynamic_routes[$method][''])) {
+            foreach ($dynamic_routes[$method][''] as $route) {
+                if (preg_match($route[6], $path, $matches)) {
+                    $params = [];
+                    foreach ($route[5] as $name) {
+                        if (isset($matches[$name])) {
+                            $params[$name] = $matches[$name];
+                        }
+                    }
+                    return [
+                        $route[2],
+                        $params,
+                        $route[3],
+                        $route[4]
+                    ];
+                }
+            }
+        }
+
         return null;
     };
 
     $execute_route = function($route) use (&$state) {
         if (!$route || !$route[2]) return null;
-        
+
         static $chain_cache = [];
         $chain_key = implode(',', $route[2]);
-        
+
         if (!isset($chain_cache[$chain_key])) {
             $handler = $route[0];
             $mw_chain = array_reverse($route[2]);
-            $chain_len = count($mw_chain);
-            
+
             $chain = function($params) use ($handler) {
                 return $handler($params);
             };
-            
-            for($i = 0; $i < $chain_len; ++$i) {
-                $mw_name = $mw_chain[$i];
+
+            foreach ($mw_chain as $mw_name) {
                 $current = $chain;
                 $chain = function($params) use ($current, &$state, $mw_name) {
                     return $state['middleware'][$mw_name](function() use ($current, $params) {
@@ -229,10 +261,10 @@ function create_router(array $config = []) {
                     });
                 };
             }
-            
+
             $chain_cache[$chain_key] = $chain;
         }
-        
+
         return $chain_cache[$chain_key]($route[1]);
     };
 
@@ -301,11 +333,14 @@ $test_paths = [
 ];
 
 benchmark_time(function() use ($router, $test_paths) {
-    foreach ($test_paths as $path) {$router['match']('GET', $path);}
+    foreach ($test_paths as $path) {
+        $router['match']('GET', $path);
+    }
 }, "Dynamic Route Matching", 10000);
 
 benchmark_time(function() use ($router) {
-    $route = $router['match']('GET', '/admin/dashboard'); $router['execute']($route);
+    $route = $router['match']('GET', '/admin/dashboard'); 
+    $router['execute']($route);
 }, "Middleware Chain", 10000);
 
 benchmark_time(function() use ($router) { 
@@ -323,14 +358,16 @@ benchmark_time(function() use ($router) {
 
 echo "\nClosure-Specific Benchmarks\n-------------------------\n";
 
-benchmark_memory(function() {return create_router();}, "Router Creation");
+benchmark_memory(function() {
+    return create_router();
+}, "Router Creation");
 
 $router2 = create_router();
-benchmark_time(function() use ($router2) { 
+benchmark_time(function() use ($router2) {
     $router2['match']('GET', '/');
 }, "Single Route Match (Closure)", 10000);
 
-benchmark_time(function() use ($router2) { 
+benchmark_time(function() use ($router2) {
     $route = $router2['match']('GET', '/admin/dashboard');
     if ($route) $router2['execute']($route);
 }, "Full Request Cycle (Closure)", 10000);
