@@ -5175,3 +5175,107 @@ Stack trace:
 [12-Nov-2024 10:51:38 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
 [12-Nov-2024 10:51:38 UTC] File exists: yes
 [12-Nov-2024 10:51:38 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Starting home page render
+[12-Nov-2024 19:04:11 UTC] Rendering: home with extension: css
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Calling function in toLayout
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/header with extension: php
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Rendering: logo with extension: php
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/contactBar with extension: php
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/a50 with extension: php
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/map with extension: php
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/contactBar with extension: php
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/a50 with extension: php
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/a33 with extension: php
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/a33 with extension: php
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/a33 with extension: php
+[12-Nov-2024 19:04:11 UTC] Rendering: parts/contactBar with extension: php
+[12-Nov-2024 19:04:11 UTC] Content length generated: 13871
+[12-Nov-2024 19:04:11 UTC] First 100 chars of content: 
+  <div class="hero main tac"
+       style="background-image:url(/i/home/heroes/main/1800.jpg)">
+   
+[12-Nov-2024 19:04:11 UTC] Rendering: layout with extension: php
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Rendering: reset with extension: css
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[12-Nov-2024 19:04:11 UTC] Rendering: style with extension: css
+[12-Nov-2024 19:04:11 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[12-Nov-2024 19:04:11 UTC] File exists: yes
+[12-Nov-2024 19:04:11 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Starting home page render
+[13-Nov-2024 16:38:56 UTC] Rendering: home with extension: css
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/home.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Calling function in toLayout
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/header with extension: php
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/header.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Rendering: logo with extension: php
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/logo.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/contactBar with extension: php
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/contactBar.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/a50 with extension: php
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a50.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/map with extension: php
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/map.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/contactBar with extension: php
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/a50 with extension: php
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/a33 with extension: php
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/parts/a33.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/a33 with extension: php
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/a33 with extension: php
+[13-Nov-2024 16:38:56 UTC] Rendering: parts/contactBar with extension: php
+[13-Nov-2024 16:38:56 UTC] Content length generated: 13871
+[13-Nov-2024 16:38:56 UTC] First 100 chars of content: 
+  <div class="hero main tac"
+       style="background-image:url(/i/home/heroes/main/1800.jpg)">
+   
+[13-Nov-2024 16:38:56 UTC] Rendering: layout with extension: php
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/layout.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Rendering: reset with extension: css
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/reset.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes
+[13-Nov-2024 16:38:56 UTC] Rendering: style with extension: css
+[13-Nov-2024 16:38:56 UTC] Full path resolved to: /Users/homebass/Dropbox/FinePrint/*SubSites/ModernPress/modernpressnyc/app/lib/../views/css/style.php
+[13-Nov-2024 16:38:56 UTC] File exists: yes
+[13-Nov-2024 16:38:56 UTC] Is readable: yes

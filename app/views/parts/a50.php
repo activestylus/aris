@@ -5,10 +5,7 @@ $css = <<<C
 .a50 .more:hover {background:#ccc;color:#000}
 C;
 style($css);
-$mob = <<<C
-body .a50 { padding-top: 65%; }
-C;
-media('768',$mob);
+media('768','body .a50 { padding-top: 65%; }');
 ?>
 <div class="group flex bac max p16">
 <?php foreach ($group as $g): ?>

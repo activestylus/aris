@@ -54,7 +54,8 @@ $h = [
 $h['content'] = toLayout('content', function()  use ($h) {
 ?>
 
-  <div class="hero main tac" style="<?= bg('/i/home/heroes/main/1800.jpg') ?>">
+  <div class="hero main tac"
+       style="<?= bg('/i/home/heroes/main/1800.jpg') ?>">
     <div class="bac max">
       <?= ui('parts/header', ['h' => $h]); ?>
       <h1 class='fw8 fff tsh'><?= andBreak($h['h1']); ?></h1>
@@ -65,8 +66,7 @@ $h['content'] = toLayout('content', function()  use ($h) {
   <?= ui('parts/contactBar'); ?>
   <?= ui('parts/a50', ['group' => $h['group1']]); ?>
 
-  <?php $x = 'hero line tac bac max' ?>
-  <div class="<?=$x?> wow" style="<?= bg('/i/home/heroes/wow/1800.jpg') ?>">
+  <div class="hero line tac bac max wow" style="<?= bg('/i/home/heroes/wow/1800.jpg') ?>">
       <h2 class='fs32 fw8 fff tsh'><?= $h['wowH'] ?></h2>
       <ul class="checks dib fs18 fff tsh">
         <?php foreach ($h['wowL'] as $l): ?>
@@ -78,7 +78,7 @@ $h['content'] = toLayout('content', function()  use ($h) {
   <?= ui('parts/map') ?>
   <?= ui('parts/a50', ['group' => $h['group2']]); ?>
 
-  <div class="<?=$x?> colors" style="<?= bg('/i/home/heroes/colors/1800.jpg') ?>">
+  <div class="hero line tac bac max wow" style="<?= bg('/i/home/heroes/colors/1800.jpg') ?>">
     <h2 class='fs32 fw8 fff tsh'><?= $h['colorH'] ?></h2>
     <p class='fff fs16 tsh'><?= $h['colorT']?></p>
   </div>
