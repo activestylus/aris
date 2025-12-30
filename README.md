@@ -1,3 +1,5 @@
+<img width="1696" height="704" alt="aris" src="https://github.com/user-attachments/assets/3f0a67d1-c4c0-4357-b0e7-8d8ad62563ba" />
+
 # Aris
 
 **A fast, framework-agnostic router for Ruby.**
