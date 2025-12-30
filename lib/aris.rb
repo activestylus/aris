@@ -2,6 +2,7 @@
 # Main Aris loader - requires all components in correct order
 
 # Core functionality
+require_relative 'aris/version'
 require_relative 'aris/core'
 require_relative 'aris/pipeline_runner'
 require_relative 'aris/locale_injector'
