@@ -1,0 +1,68 @@
+# Bundler and gems
+*.gem
+*.rbc
+.bundle/
+.config
+coverage/
+InstalledFiles
+lib/bundler/man/
+pkg/
+rdoc/
+spec/reports/
+test/tmp/
+test/version_tmp/
+tmp/
+vendor/bundle/
+
+# Rails-specific
+/log/
+db/*.sqlite3
+db/*.sqlite3-journal
+public/packs/
+public/packs-test/
+storage/
+*.pid
+.backup
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+lsoverride
+
+# IDEs and editors (expanded)
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.seeds
+
+# Testing and coverage
+coverage/
+.coverage/
+.nyc_output

@@ -1,0 +1,30 @@
+PATH
+  remote: .
+  specs:
+    aris (0.1.0)
+      rack (~> 3.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.14.0)
+    benchmark-memory (0.2.0)
+      memory_profiler (~> 1)
+    memory_profiler (1.1.0)
+    minitest (5.27.0)
+    rack (3.2.4)
+    rake (13.3.1)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  aris!
+  benchmark-ips (~> 2.0)
+  benchmark-memory (~> 0.2)
+  minitest (~> 5.0)
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.6.9
