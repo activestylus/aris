@@ -18,7 +18,7 @@ module Aris
         redirect = Aris::Utils::Redirects.find(request.path)
         return nil unless redirect
         
-        [redirect[:status], {'Location' => redirect[:to]}, []]
+        [redirect[:status], {'location' => redirect[:to]}, []]
       end
     end
   end

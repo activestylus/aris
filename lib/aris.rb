@@ -3,6 +3,8 @@
 
 # Core functionality
 require_relative 'aris/version'
+require_relative 'aris/config'
+require_relative 'aris/router'
 require_relative 'aris/core'
 require_relative 'aris/pipeline_runner'
 require_relative 'aris/locale_injector'

@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.4.0] - 2025-12-30
+This release adds native static file serving with production-grade MIME type handling.
+
+### ✨ Added
+* **Static File Serving:** Introduced `Aris::Config.serve_static` to serve static assets directly from the `public/` directory in development. Works seamlessly with nginx in production (nginx handles static files, Aris handles dynamic routes).
+* **Configurable MIME Types:** Added `Aris::Config.mime_types` with sensible defaults for common file types (images, fonts, CSS, JS). Fully extensible for custom file formats.
+* **Cache Headers:** Static files are served with `Cache-Control: public, max-age=31536000` for optimal browser caching.
+
+### 🔧 Changed
+* Both `RackApp` and `MockAdapter` now check for static files before routing, improving performance for asset-heavy applications.
+
+### 📝 Usage
+```ruby
+# Enable in development (disabled by default)
+Aris.configure do |c|
+  c.serve_static = ENV['RACK_ENV'] != 'production'
+  
+  # Optional: Add custom MIME types
+  c.mime_types = {
+    '.webm' => 'video/webm',
+    '.flac' => 'audio/flac'
+  }
+end
+```
+
 ## [1.3.0] - 2025-12-30
 
 This release focuses on state management and fine-tuning URL strictness.

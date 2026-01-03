@@ -1,5 +1,7 @@
 # Aris Content - Complete Specification
 
+NOTE!: This is yet to be implemented. Features are currently onin flux.
+
 ## Overview
 
 **aris-content** is a companion gem for **aris** that provides content intelligence and SEO utilities for multi-domain, static-first Ruby sites. It operates in two silos:

@@ -402,6 +402,22 @@ Aris.url("api.example.com", :user, id: 123, protocol: 'http')
 
 The protocol defaults to `https` but can be overridden with the `protocol:` keyword argument. This is useful for development environments where you might be running on plain HTTP.
 
+### Static Asset Handling
+
+```ruby
+# Enable in development (disabled by default)
+Aris.configure do |c|
+  c.serve_static = ENV['RACK_ENV'] != 'production'
+  
+  # Optional: Add custom MIME types
+  c.mime_types = {
+    '.webm' => 'video/webm',
+    '.flac' => 'audio/flac'
+  }
+end
+```
+
+
 ---
 
 ## HTTP Methods
@@ -1590,15 +1606,15 @@ The method accepts either a named route (as a symbol) or a string URL. It return
 ```ruby
 # Named route redirect
 Aris.redirect(:home)
-# => [302, {'Location' => 'https://example.com/'}, []]
+# => [302, {'location' => 'https://example.com/'}, []]
 
 # Named route with parameters
 Aris.redirect(:user, id: 123, status: 301)
-# => [301, {'Location' => 'https://example.com/users/123'}, []]
+# => [301, {'location' => 'https://example.com/users/123'}, []]
 
 # Direct URL redirect
 Aris.redirect('https://external-site.com/resource')
-# => [302, {'Location' => 'https://external-site.com/resource'}, []]
+# => [302, {'location' => 'https://external-site.com/resource'}, []]
 ```
 
 The default status is 302 (temporary redirect), but you can specify any redirect status code with the `status:` keyword argument.
@@ -2396,13 +2412,13 @@ Returns a redirect response. Target can be a named route (symbol) or a URL strin
 
 ```ruby
 Aris.redirect(:home)
-# => [302, {'Location' => 'https://example.com/'}, []]
+# => [302, {'location' => 'https://example.com/'}, []]
 
 Aris.redirect(:user, id: 123, status: 301)
-# => [301, {'Location' => 'https://example.com/users/123'}, []]
+# => [301, {'location' => 'https://example.com/users/123'}, []]
 
 Aris.redirect('https://external.com')
-# => [302, {'Location' => 'https://external.com'}, []]
+# => [302, {'location' => 'https://external.com'}, []]
 ```
 
 ### Aris::Router Methods
@@ -3442,7 +3458,7 @@ class ProductHandler
     
     # If product has canonical URL, redirect to it
     if request.path != product.canonical_path
-      return [301, {'Location' => product.canonical_path}, []]
+      return [301, {'location' => product.canonical_path}, []]
     end
     
     # Normal handler logic
@@ -3673,7 +3689,7 @@ class Handler
   def self.call(request, response)
     if request.scheme == 'http'
       https_url = request.url.sub('http://', 'https://')
-      return [301, {'Location' => https_url}, []]
+      return [301, {'location' => https_url}, []]
     end
     
     # Normal handler logic
@@ -3694,7 +3710,7 @@ class BlogHandler
     # /blog/2023/01/15/my-post → /blog/my-post
     if path =~ %r{^/blog/\d{4}/\d{2}/\d{2}/(.+)$}
       slug = $1
-      return [301, {'Location' => "/blog/#{slug}"}, []]
+      return [301, {'location' => "/blog/#{slug}"}, []]
     end
     
     # Normal handler logic
@@ -3789,7 +3805,7 @@ class ProductHandler
     # Additional logic: redirect if product has canonical URL
     if product.canonical_slug != request.params[:id]
       canonical_url = Aris.path(:product, id: product.canonical_slug)
-      return [301, {'Location' => canonical_url}, []]
+      return [301, {'location' => canonical_url}, []]
     end
     
     response.html(render_product(product))

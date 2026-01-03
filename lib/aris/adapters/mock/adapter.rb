@@ -39,7 +39,7 @@ module Aris
             if domain_config && domain_config[:locales] && domain_config[:locales].any? && domain_config[:root_locale_redirect] != false
               if path == '/' || path.empty?
                 default_locale = domain_config[:default_locale] || domain_config[:locales].first
-                return { status: 302, headers: {'Location' => "/#{default_locale}/"}, body: [] }
+                return { status: 302, headers: {'location' => "/#{default_locale}/"}, body: [] }
               end
             end
             
@@ -52,7 +52,7 @@ module Aris
             if defined?(Aris::Utils::Redirects)
               redirect = Aris::Utils::Redirects.find(path)
               if redirect
-                return { status: redirect[:status], headers: {'Location' => redirect[:to]}, body: [] }
+                return { status: redirect[:status], headers: {'location' => redirect[:to]}, body: [] }
               end
             end
             
@@ -115,6 +115,24 @@ module Aris
           end
           cookies
         end
+
+def handle_static(request)
+  return nil unless request.method == 'GET'
+  return nil unless Aris::Config.serve_static
+  
+  path = File.join('public', request.path)
+  return nil unless File.file?(path)
+  
+  [200, 
+    {'content-type' => mime_type(path)}, 
+    [File.binread(path)]
+  ]
+end
+
+def mime_type(path)
+  ext = File.extname(path).downcase
+  Aris::Config.mime_types[ext] || 'application/octet-stream'
+end
 
 def format_response(result, response = nil)
   case result
