@@ -198,5 +198,3 @@ end
 - `Aris::Utils::Redirects` - redirect management
 
 ---
-
-Does this feel right? Any API you want to tweak before we start implementing?
