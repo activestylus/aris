@@ -12,10 +12,9 @@ module Aris
         @config = config
       end
       
-def call(request, response)
+def self.call(request, response)
   return nil unless PARSEABLE_METHODS.include?(request.method)
   
-  # Check content-type - access from env, not headers
   content_type = request.env['CONTENT_TYPE']
   return nil unless content_type&.include?('application/x-www-form-urlencoded')
   
@@ -23,11 +22,14 @@ def call(request, response)
   return nil if raw_body.nil? || raw_body.empty?
   
   begin
-    # Parse form data
     data = ::Rack::Utils.parse_nested_query(raw_body)
+    request.instance_variable_set(:@parsed_form_data, data)
     
-    # Attach parsed data to request
-    request.instance_variable_set(:@form_data, data)
+    # Add clean accessor method
+    request.define_singleton_method(:form_params) do
+      @parsed_form_data || {}
+    end
+    
   rescue => e
     response.status = 400
     response.headers['content-type'] = 'text/plain'
@@ -35,7 +37,7 @@ def call(request, response)
     return response
   end
   
-  nil # Continue pipeline
+  nil
 end
       
       def self.build(**config)
@@ -44,3 +46,4 @@ end
     end
   end
 end
+Aris.register_plugin(:form_parser, plugin_class: Aris::Plugins::FormParser)

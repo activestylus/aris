@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.4.2] - 2026-01-22
+
+### 🐛 Fixed
+
+* Fixed a bug where form_parser plugin failed to pass parameters to handlers
+
+Parameters are reached as follows:
+
+```ruby
+def self.send(req, res, params)
+  email = req.form_params['email']
+```
+
 ## [1.4.0] - 2025-12-30
 This release adds native static file serving with production-grade MIME type handling.
 
